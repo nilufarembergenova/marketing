@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.spans {
+  color: #111;
+  font-family: Helvetica Neue;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  text-decoration-line: underline;
+  
+}
+
+.marketing {
+  color: #111;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 218.182% */
+  padding-top: 8px;
+
+  /* 106.667% */
+
+}
+
+.text_1 {
+  color: #111;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 24px;
+  /* 218.182% */
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 24px;
+
+  font-family: Helvetica Neue;
+  padding-top: 3px;
+}
+
+.text_img {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  padding: 0px 100px;
+  margin: auto;
+  padding-bottom: 48px;
+}
+
+.marketing_text {
+  color: #111;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  /* 160% */
+}
+
+.marketing_text1 {
+  color: #111;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 60px;
+  /* 107.143% */
+  text-transform: uppercase;
+}
+
+.text_2 {
+  color: #111;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  /* 160% */
+  padding-top: 24px;
+}
+
+.text_button {
+  border-radius: 30px;
+  background: #111;
+  justify-content: center;
+  text-align: center;
+  color: #FFF;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  /* 160% */
+  padding: 7px 21px;
+  cursor: pointer;
+
+}
+
+.text_button1 {
+  border-radius: 30px;
+  background: #111;
+  justify-content: center;
+  text-align: center;
+  color: #FFF;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  /* 160% */
+  padding: 7px 21px;
+  cursor: pointer;
+}
+
+.box {
+  align-items: center;
+}
+
+.btns {
+  justify-content: center;
+  padding-top: 24px;
+  padding-bottom: 33px;
+  display: flex;
+  gap: 8px;
+}
